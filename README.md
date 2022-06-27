@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/LMiKBYcE5PI01Eow0Z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LMiKBYcE5PI01Eow0Z">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/LMiKBYcE5PI01Eow0Z" width="100"/>
+</div>
 
 <!--
 **FelipeMielkeVieira/FelipeMielkeVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
