@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LMiKBYcE5PI01Eow0Z/giphy.gif" width="200"/>
   <div style="display: flex; align-items: center;">
     <img src="./img/icons8-novo-logótipo-discord-48.png" height="50px">
-    <span>badiuor#4945</span>
+    <p>badiuor#4945</p>
   </div>
 </div>
 
