@@ -4,7 +4,7 @@
   </head>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/LMiKBYcE5PI01Eow0Z/giphy.gif" width="200"/>
-    <div class='divDiscord'>
+    <div align='center'>
       <img src="./img/icons8-novo-logótipo-discord-48.png" height="40px">
       <span>badiuor#4945</span>
     </div>
