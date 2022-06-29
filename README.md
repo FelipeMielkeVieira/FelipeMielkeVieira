@@ -1,19 +1,9 @@
-<html>
-  <head>
-    <link rel='stylesheet' src='./styles.css'>
-  </head>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/LMiKBYcE5PI01Eow0Z/giphy.gif" width="200"/> <br/>
-    <div>
-      <img align='center' src="./img/icons8-novo-logótipo-discord-48.png" height="40px">
-      <span align='center'>badiuor#4945</span>
-    </div>
-    <div>
-      <img align='center' src="./img/steam.png" height="40px">
-      [badiuor](https://steamcommunity.com/profiles/76561198962631982)
-    </div>
-  </div>
-</html>
+![](https://media.giphy.com/media/LMiKBYcE5PI01Eow0Z/giphy.gif)
+![](./img/icons8-novo-logótipo-discord-48.png)
+badiuor#4945
+![](./img/steam.png)
+[badiuor](https://steamcommunity.com/profiles/76561198962631982)
+
 
 <!--
 **FelipeMielkeVieira/FelipeMielkeVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
