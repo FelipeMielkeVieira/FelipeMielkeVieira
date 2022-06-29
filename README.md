@@ -6,7 +6,7 @@
       <span align='center'>badiuor#4945</span>
     </div>
     <div>
-      <img align='center' src="./img/steam.png" height="40px">
+      <img align='center' src="./img/steam2.png" height="40px">
       <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>&nbsp; badiuor</a>
     </div>
   </div>
