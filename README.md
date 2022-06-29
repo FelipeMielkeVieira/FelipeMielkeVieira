@@ -7,7 +7,7 @@
     </div>
     <div>
       <img align='center' src="./img/steam.png" height="40px">
-      <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>badiuor</a>
+      <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>&nbsp; badiuor</a>
     </div>
   </div>
 </html>
