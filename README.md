@@ -10,7 +10,7 @@
     </div>
     <div>
       <img align='center' src="./img/steam.png" height="40px">
-      <span align='center'>[badiuor](https://steamcommunity.com/profiles/76561198962631982)</span>
+      [badiuor](https://steamcommunity.com/profiles/76561198962631982)
     </div>
   </div>
 </html>
