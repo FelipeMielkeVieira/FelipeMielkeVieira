@@ -10,6 +10,8 @@
       <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>&nbsp; badiuor</a>
     </div>
   </div>
+  <br/>
+  <br/>
   <div align="center">
   <a href="https://github.com/FelipeMielkeVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMielkeVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
