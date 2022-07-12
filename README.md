@@ -9,6 +9,7 @@
       <img align='center' src="./img/steam.png" height="40px">
       <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>&nbsp; badiuor</a>
     </div>
+    <span align='center'>felipemielkev@gmail.com</span>
   </div>
   <br/>
   <br/>
