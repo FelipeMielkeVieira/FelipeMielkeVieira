@@ -25,6 +25,9 @@
       <code><img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
       <code><img alt="C" height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
       <code><img alt="JAVA" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+      <code><img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+      <code><img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
+      <code><img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
   </div>
 </div>
 </html>
