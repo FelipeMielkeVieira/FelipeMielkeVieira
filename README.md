@@ -5,10 +5,6 @@
       <img align='center' src="./img/icons8-novo-logótipo-discord-48.png" height="40px">
       <span align='center'>badiuor#4945</span>
     </div>
-    <div>
-      <img align='center' src="./img/steam.png" height="40px">
-      <a align='center' href='https://steamcommunity.com/profiles/76561198962631982'>&nbsp; badiuor</a>
-    </div>
     <span align='center'>felipemielkev@gmail.com</span>
   </div>
   <br/>
