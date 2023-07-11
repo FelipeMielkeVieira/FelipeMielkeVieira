@@ -1,10 +1,5 @@
 <html>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/LMiKBYcE5PI01Eow0Z/giphy.gif" width="200"/> <br/> <br/>
-    <div>
-      <img align='center' src="./img/icons8-novo-logótipo-discord-48.png" height="40px">
-      <span align='center'>badiuor#4945</span>
-    </div>
     <span align='center'>felipemielkev@gmail.com</span>
   </div>
   <br/>
