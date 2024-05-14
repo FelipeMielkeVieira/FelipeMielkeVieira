@@ -1,6 +1,6 @@
 <html>
   <div id="header" align="center">
-    <span align='center'>felipemielkev@gmail.com</span>
+    <span align='center'>Felipe Mielke Vieira</span>
   </div>
   <br/>
   <br/>
