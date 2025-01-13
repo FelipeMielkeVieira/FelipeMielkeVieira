@@ -1,5 +1,5 @@
-<html>
-  <div id="header" align="center">
+
+ <div>
     - Felipe Mielke Vieira
     - Técnico em Desenvolvimento de Sistemas - SENAI
     - Aprendiz de Programador de Sistemas de Informação - WEG
@@ -13,4 +13,4 @@
       <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,java,cs,dotnet,mysql,postgres,nodejs,spring,docker" />
   </div>
 </div>
-</html>
+
