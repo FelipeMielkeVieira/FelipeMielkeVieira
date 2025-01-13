@@ -9,7 +9,7 @@
   <br/>
   <div align="center">
   <a href="https://github.com/FelipeMielkeVieira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMielkeVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMielkeVieira&show_icons=true&theme=dracula&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMielkeVieira&layout=compact&langs_count=7&theme=dracula"/>
     <div align="center">
       <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,java,c,c#,vb.net,mysql,nodejs,spring,docker" />
