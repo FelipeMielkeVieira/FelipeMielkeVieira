@@ -1,7 +1,8 @@
 - Felipe Mielke Vieira
 - Técnico em Desenvolvimento de Sistemas - SENAI
 - Aprendiz de Programador de Sistemas de Informação - WEG
-- Análise e Desenvolvimento de Sistemas (2023-2025) - Católica SC
+- Análise e Desenvolvimento de Sistemas (2023-2026) - Católica SC
+- Engenharia de Software - Católica SC
 
 ##
 
